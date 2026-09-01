@@ -230,3 +230,6 @@ android/key.properties
 android/app/.cxx/
 *.jks
 *.keystore
+
+# ===== 项目文档（不上传仓库）=====
+docs/

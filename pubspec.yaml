@@ -1,7 +1,14 @@
 name: flowplan
 description: "A new Flutter project."
 publish_to: 'none'
-version: 0.1.0+1
+# 版本号格式：语义化版本 + 构建号
+#   versionName = 0.1.0-beta.1（显示给用户的版本）
+#   versionCode = 2（Android 内部递增数字，每次发布必须 +1）
+# 命名约定：
+#   -beta.N  = 测试版（本次）
+#   -rc.N    = 候选发布版
+#   无后缀    = 正式版
+version: 0.1.0-beta.1+2
 
 environment:
   sdk: ^3.12.2
