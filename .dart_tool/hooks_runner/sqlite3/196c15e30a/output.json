@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "encoding": {
+        "file": "C:\\Users\\OldTangyuan\\Desktop\\FlowPlan\\.dart_tool\\hooks_runner\\shared\\sqlite3\\build\\download-2bf39f2a\\sqlite3.dll",
+        "id": "package:sqlite3/src/ffi/libsqlite3.g.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    }
+  ],
+  "assets_for_linking": {},
+  "status": "success",
+  "timestamp": "2026-09-02 00:22:48.000"
+}
